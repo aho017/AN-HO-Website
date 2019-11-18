@@ -1,6 +1,3 @@
+# An Ho - Applied Mathematics
 
-# Welcome to LearnCS8 Resume Website
-
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
-
-Special thanks to the open source bootstrap libraries that made this website possible. 
+![enter image description here](https://lh3.googleusercontent.com/IiB7Iwla2KnNCgDhzWMcs5icRRDixXHgVBU3DO6W69CPrs3wwPlybudKdKvFgZCmXGRLr_IOGnE)
